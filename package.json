@@ -1,0 +1,23 @@
+{
+  "name": "beacon-api",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000b\u0000e\u0000a\u0000c\u0000o\u0000n\u0000-\u0000a\u0000p\u0000i\u0000-\u0000s\u0000a\u0000m\u0000p\u0000l\u0000e\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChoppariRavi/beacon-api-sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChoppariRavi/beacon-api-sample/issues"
+  },
+  "homepage": "https://github.com/ChoppariRavi/beacon-api-sample#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
